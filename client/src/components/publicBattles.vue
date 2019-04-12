@@ -2,7 +2,7 @@
   <div>
     <app-nav></app-nav>
     <h3 class='text-center'>Daily Startup Battles</h3>
-    </hr>
+    <hr/>
     <div class = 'col-sm-4' v-for='battle in publicBattles'>
       <div class = 'panel panel-default'>
         <div class = 'panel-heading'>
