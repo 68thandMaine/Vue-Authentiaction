@@ -9,6 +9,7 @@ yarn-error.log*
 selenium-debug.log
 
 /server/server.js
+/src/components/utils/auth.js
 
 # Editor directories and files
 .idea
